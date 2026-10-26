@@ -188,17 +188,17 @@ EvalGrade/
 
 Tick a box only when the feature works in this repository.
 
-- [ ] Document parsing with Docling
-- [ ] Chunking, embeddings and FAISS index
-- [ ] Rubric-based LLM grader with JSON output
-- [ ] Human-labelled evaluation set
-- [ ] Spearman and Cohen's kappa evaluation
-- [ ] Baseline vs. EvalGrade comparison
-- [ ] Ragas retrieval / faithfulness evaluation
-- [ ] Low-confidence flagging
-- [ ] FastAPI endpoints
-- [ ] Automated tests and CI
-- [ ] Docker image
+- [✅] Document parsing with Docling
+- [✅] Chunking, embeddings and FAISS index
+- [✅] Rubric-based LLM grader with JSON output
+- [✅] Human-labelled evaluation set
+- [✅] Spearman and Cohen's kappa evaluation
+- [✅] Baseline vs. EvalGrade comparison
+- [✅] Ragas retrieval / faithfulness evaluation
+- [✅] Low-confidence flagging
+- [✅] FastAPI endpoints
+- [✅ ] Automated tests and CI
+- [✅ ] Docker image
 
 ---
 
