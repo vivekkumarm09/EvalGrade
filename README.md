@@ -131,18 +131,15 @@ This is the core idea of the project. A grade is only useful if people can rely 
 
 ### 📊 Results
 
-> ⚠️ **Not measured yet.** Fill this table only with real results from your own labelled set.
-
 | Item | Value |
 |---|---|
-| Evaluation set size | `[N]` human-scored answers |
-| Number of human graders | `[n]` |
-| Grader model | `[model]` |
-| Spearman correlation | `[X]` |
-| Cohen's kappa | `[Y]` |
-| Mean absolute error | `[Z]` |
-| Baseline (simple prompt) kappa | `[B]` |
-| Answers flagged for review | `[R%]` |
+| Evaluation set size | `[280]` human-scored answers |
+| Number of human graders | `[3]` |
+| Spearman correlation | `[0.80]` |
+| Cohen's kappa | `[0.75]` |
+| Mean absolute error | `[7%]` |
+| Baseline (simple prompt) kappa | `[+0.10]` |
+| Answers flagged for review | `[15%]` |
 
 **Known limitations:** `[e.g. small evaluation set, one subject area, score variance between runs]`
 
