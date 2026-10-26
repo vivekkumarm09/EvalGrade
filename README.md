@@ -202,7 +202,6 @@ Tick a box only when the feature works in this repository.
 - [ ] FastAPI endpoints
 - [ ] Automated tests and CI
 - [ ] Docker image
-- [ ] Live demo
 
 ---
 
@@ -216,7 +215,6 @@ Tick a box only when the feature works in this repository.
 | 4 | Add evaluation metrics | Spearman and kappa computed automatically |
 | 5 | Add confidence and review flagging | Flagged answers are exported for review |
 | 6 | API, tests, Docker | `pytest` passes; container runs |
-| 7 | Deploy and document | Public demo and results published |
 
 ---
 
